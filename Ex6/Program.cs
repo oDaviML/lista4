@@ -51,9 +51,6 @@ class Program
                     Console.WriteLine("Opcao invalida");
                     break;
             }
-            
-            
-            
         } while (op != 7);
     }
 }
